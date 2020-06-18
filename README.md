@@ -1,6 +1,6 @@
 This is the repository for my OSCon 2020 live-coding talk about Design patterns in Python.
 
-Here, you'll find the Jupyter notebook I used during my talk.
+Here, you'll find the Jupyter notebook I used during my talk.  The notebook will fill up over the course of the session, with about a 1-minute delay between my typing and the updating.  The notebook will remain after the session is over, so please enjoy and share!
 
 For more info about me:
 
